@@ -1,0 +1,12 @@
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\WebApplication.dll.config
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\WebApplication.dll
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\WebApplication.pdb
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\BusinessLogic.dll
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\synrnt.dll
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\BusinessLogic.pdb
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\synrnt.pdb
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\synrtl.dll
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\bin\synwnd.dll
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\obj\Debug\WebApplication.dll
+D:\Dev\AppDomainProtection\SynNetAsp\WebApplication\obj\Debug\WebApplication.pdb
