@@ -1,0 +1,8 @@
+"D:\Dev\AppDomainProtection\SynNetAsp\BusinessLogic\AsyncServicesProductGroup.dbl"(124):         ;;; <param name="GroupId">Passed group id (string)</param>
+%DBL-W-XMLDOC, BusinessLogic.AsyncServices.ProductGroupExists has a parameter tag for GroupId but there is no parameter by that name
+"D:\Dev\AppDomainProtection\SynNetAsp\BusinessLogic\AsyncServicesSupplier.dbl"(124):         ;;; <param name="SupplierId">Passed supplier id (string)</param>
+%DBL-W-XMLDOC, BusinessLogic.AsyncServices.SupplierExists has a parameter tag for SupplierId but there is no parameter by that name
+"D:\Dev\AppDomainProtection\SynNetAsp\BusinessLogic\AsyncServicesPart.dbl"(124):         ;;; <param name="Id">Passed part ID (string)</param>
+%DBL-W-XMLDOC, BusinessLogic.AsyncServices.PartExists has a parameter tag for Id but there is no parameter by that name
+Warnings:       3
+
